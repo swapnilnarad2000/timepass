@@ -1,2 +1,3 @@
-# timepass
-jzt fun
+# Timepass
+## Just for some fun.....
+### Please dont waste yout time here.
